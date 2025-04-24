@@ -4716,11 +4716,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Alumnos\\Michael\\Repo2\\appweb1\\appweb1.csproj",
+      "projectUniqueName": "D:\\Alumnos\\Michael\\Repo2\\Tarea\\AppWeb1\\appweb1.csproj",
       "projectName": "appweb1",
-      "projectPath": "D:\\Alumnos\\Michael\\Repo2\\appweb1\\appweb1.csproj",
+      "projectPath": "D:\\Alumnos\\Michael\\Repo2\\Tarea\\AppWeb1\\appweb1.csproj",
       "packagesPath": "C:\\Users\\ALUMNO\\.nuget\\packages\\",
-      "outputPath": "D:\\Alumnos\\Michael\\Repo2\\appweb1\\obj\\",
+      "outputPath": "D:\\Alumnos\\Michael\\Repo2\\Tarea\\AppWeb1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

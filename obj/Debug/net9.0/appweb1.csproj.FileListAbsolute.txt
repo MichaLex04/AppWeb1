@@ -229,3 +229,15 @@ D:\Alumnos\Michael\Repo2\appweb1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System
 D:\Alumnos\Michael\Repo2\appweb1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\Alumnos\Michael\Repo2\appweb1\obj\Debug\net9.0\appweb1.csproj.AssemblyReference.cache
 D:\Alumnos\Michael\Repo2\appweb1\obj\Debug\net9.0\appweb1.csproj.Up2Date
+D:\Alumnos\Michael\Repo2\Tarea\AppWeb1\obj\Debug\net9.0\appweb1.csproj.AssemblyReference.cache
+D:\Alumnos\Michael\Repo2\Tarea\AppWeb1\obj\Debug\net9.0\appweb1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alumnos\Michael\Repo2\Tarea\AppWeb1\obj\Debug\net9.0\appweb1.AssemblyInfoInputs.cache
+D:\Alumnos\Michael\Repo2\Tarea\AppWeb1\obj\Debug\net9.0\appweb1.AssemblyInfo.cs
+D:\Alumnos\Michael\Repo2\Tarea\AppWeb1\obj\Debug\net9.0\appweb1.csproj.CoreCompileInputs.cache
+D:\Alumnos\Michael\Repo2\Tarea\AppWeb1\obj\Debug\net9.0\appweb1.MvcApplicationPartsAssemblyInfo.cache
+D:\Alumnos\Michael\Repo2\Tarea\AppWeb1\obj\Debug\net9.0\appweb1.RazorAssemblyInfo.cache
+D:\Alumnos\Michael\Repo2\Tarea\AppWeb1\obj\Debug\net9.0\appweb1.RazorAssemblyInfo.cs
+D:\Alumnos\Michael\Repo2\Tarea\AppWeb1\obj\Debug\net9.0\appweb1.sourcelink.json
+D:\Alumnos\Michael\Repo2\Tarea\AppWeb1\obj\Debug\net9.0\appweb1.dll
+D:\Alumnos\Michael\Repo2\Tarea\AppWeb1\obj\Debug\net9.0\refint\appweb1.dll
+D:\Alumnos\Michael\Repo2\Tarea\AppWeb1\obj\Debug\net9.0\appweb1.pdb
